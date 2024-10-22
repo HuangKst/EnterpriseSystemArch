@@ -19,4 +19,4 @@ Manufacturing Company – Produce Invoice and Delivery Note
 4. If the customer has a good credit rating, the invoice is sent directly to the customer
 5. If the customer is cash-on-delivery (COD) the invoice is forwarded to the warehouse for 
 packing with the product.
-6. The delivery note is sent to the warehous
+6. The delivery note is sent to the warehouse
